@@ -198,9 +198,11 @@ def make(date_):
     return dag
 
 
-yesterday = date.today() - timedelta(days=1)
+date_ = date.today() - timedelta(days=1)
 
-dag = make(yesterday)
+print('Getting data for date: ', date_)
+
+dag = make(date_)
 
 dag.build()
 
