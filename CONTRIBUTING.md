@@ -9,8 +9,11 @@ El principal objectivo de este proyecto es construir una base de datos con varia
 Cada una de las variables médicas estará alojada en un folder (ejemplo: `variables/mortalidad`), dentro de ese folder, seguiremos la siguient estructura.
 
 * brief.md - Reporte en formato Markdown con la revisión de la literatura. El título del archivo debe ser el nombre de la variable, debe haber también un subsección con las fuentes citadas
-* `src/` - Si se extraen archivos usando algún script, todo el código deberá estar en este folder. El código no debe asumir que ninguna conjunto de datos está presente, deberá descargarlos de internet y poder ejecutarse con un comando (ejemplo: `python analysis.py`)
+* `src/` - Si se extraen archivos usando algún script, todo el código deberá estar en este folder. El código no debe asumir que ninguna conjunto de datos está presente, deberá descargarlos de internet y poder ejecutarse con un comando (ejemplo: `python analysis.py`). **Importante: No subir datos al repositorio**
 * README.md - Archivo markdown con instrucciones generales para correr el código
+
+*Nota: El folder [example/](example) incluye una estructura base siguiendo los lineamientos descritos.*
+
 
 ## Cómo contribuir
 
