@@ -1,6 +1,11 @@
 # Contribuciones
 
-Todas las contribuciones se hará usando este repositorio.
+Todas las contribuciones se hará usando este repositorio, el primer paso para contribuir es pedir que se te asigne una tarea, para ello abre un issue en el repositorio con el título "Voluntario", [Click aquí para abrir un issue](https://github.com/brigadadigitalmx/policy-briefs-medical/issues/new?title=Voluntario).
+
+Un coordinador se pondrá en contacto contigo para asignarte una tarea.
+
+También puedes ver la lista de issues abiertos y comentar en alguno de ellos si quieres que se te asignen. [Click aquí para ver la lista de issues abiertos](https://github.com/brigadadigitalmx/policy-briefs-medical/issues)
+
 
 ## Formato para variables médicas
 
