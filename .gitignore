@@ -1,3 +1,4 @@
+*.log
 *.csv
 *.tsv
 *.json
@@ -7,6 +8,7 @@
 *.source
 *.jar
 data/
+output/
 bin/
 
 
