@@ -1,0 +1,4 @@
+Date,Study,Days,Range (Days),Sample (n),Study Type
+2020-03-26,Viral Kinetics and Antibody Responses in Patients with COVID-19 (medRxiv),12 (nasopharyngeal); 19 (sputum); 18 (stool),3 to 38 (nasopharyngeal); 5 to 37 (sputum); 7 to 26 (stool),67,prospective cohort
+2020-03-11,"Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study (The Lancet)",20 (throat swab),"17 to 24 (IQR), max 37",137 (all survivors),retrospective multicenter cohort
+2020-02-19,COVID-19 in a Designated Infectious Diseases Hospital Outside Hubei Province China (MedRxiv),14 (nasal swabs),10 to 19 (IQR),298,retrospective cohort

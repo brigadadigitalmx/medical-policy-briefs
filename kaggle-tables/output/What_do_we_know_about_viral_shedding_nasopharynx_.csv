@@ -1,0 +1,7 @@
+Date,Study,Days After Admission Covid-19 is Present,Source / Summary,Study Type,Sample Size
+2020-04-03,"Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study (The Lancet)",8-37 DAO (median = 20),"Median shedding with lopinavir/ritonavir = 22 days, median in severe cases = 22 days, median in critical cases = 24 days",Retrospective cohort,n=29
+2020-03-30,Virus shedding patterns in nasopharyngeal and fecal specimens of COVID-19 patients (medRxiv),median=10 DAO,Viral titers of nasal-throat swabs peaked at 6-9 DAO,,n=23
+2020-03-26,Viral Kinetics and Antibody Responses in Patients with COVID-19 (medRxiv),3-38 DAO (median =12),Nasophayngeal is a major shedding area.,Prospective Cohort,n=67
+2020-03-19,Viral dynamics in mild and severe cases of COVID-19 (The Lancet Infectious Disease),"Mild ~15 DAO, Severe ~25 DAO","Mild illness cleared by ~10 DAO, severe cases last longer.",,n=76
+2020-03-15,Evaluation of SARS-CoV-2 RNA shedding in clinical specimens and clinical characteristics of 10 patients with COVID-19 in Macau (International Journal of Biological Sciences),24 DAO,Average RNA conversion time for NPS is 18.2 days (SD: 4.6),Prospective Cohort,n=10
+2020-03-03,Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore (JAMA),1-24 DAO (median 12),83% of patients had nasopharynx viral shedding >7 days,Descriptive case series,n=18

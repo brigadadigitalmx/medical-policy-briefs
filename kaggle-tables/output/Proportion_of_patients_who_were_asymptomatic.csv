@@ -1,0 +1,15 @@
+Date,Study,Asymptomatic Proportion,Age,Design,Sample
+2020-04-09,COVID-19 infection among asymptomatic and symptomatic pregnant women: Two weeks of confirmed presentations to an affiliated pair of New York City hospitals (American Journal of Obstetrics & Gynecology MFM),0.326,mean= 26.9 ± 5.9 years,Retrospective Cohort,43
+2020-03-30,A considerable proportion of individuals with asymptomatic SARS-CoV-2 infection in Tibetan population (MedRxiv),0.217,31(6-51) years,Case Series,83
+2020-03-24,Modes of contact and risk of transmission in COVID-19 among close contacts (MedRxiv),0.06,median = 38 years,Retrospective Cohort,129
+2020-03-23,"High incidence of asymptomatic SARS-CoV-2 infection, Chongqing, China (MedRxiv)",0.12,mean = 47 years,Case Series,167
+2020-03-18,High transmissibility of COVID-19 near symptom onset (MedRxiv),0.125,not reported,case series,32
+2020-03-18,The clinical characteristics of COVID-19: a retrospective analysis of 104 patients from the outbreak on board the Diamond Princess cruise ship in Japan (MedRxiv),0.41,65(25-93) years,Retrospective Cohort,104
+2020-03-15,Epidemiological characteristics of 2019 novel coronavirus family clustering in Zhejiang Province (Chinese Journal of Preventative Medicine),0.14,not reported,Case Series,391
+2020-03-14,Epidemiological parameters of coronavirus disease 2019: a pooled analysis of publicly reported individual data of 1155 cases from seven countries (MedRxiv),0.15,46 years (5 days-90 years),Case Series,329
+2020-03-10,Epidemiological and clinical characteristics of COVID-19 in adolescents and young adults (MedRxiv),0.087,10-35 years,Retrospective Cohort,46
+2020-03-06,"Transmission and clinical characteristics of coronavirus disease 2019 in 104 outside-Wuhan patients, China (MedRxiv)",0.05,43(8-84) years,case series,104
+2020-02-23,"Estimating the Asymptomatic Proportion of 2019 Novel Coronavirus onboard the Princess Cruises Ship, 2020 (Eurosurveillance)",0.179,0-60+ years,Disease Progression Model,634
+2020-02-17,"Vital Surveillances: The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) — China, 2020 (Chinese CDC)",0.012,0-99+ years,Case Series,44672
+2020-02-15,Characteristics of COVID-19 infection in Beijing (Journal of Infection),0.05,47.5(1–94) years,Retrospective Cohort,262
+2020-02-03,Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19) (MedRxiv),0.43,not reported,Retrospective Cohort,12

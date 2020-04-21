@@ -3,6 +3,12 @@ Bienvenido al Banco de datos médicos de la Brigada Digital MX. Nuestro objetivo
 
 Estaremos procesando datos y subiéndolos diariamente para facililar su uso. El código que usamos para procesar los datos está disponible en nuestro repositorio en caso de que quieras reproducir o modificar el procedimiento.
 
+# Literature tables
+
+The Kaggle community is mining COVID-19 related papers and consolidating tables for several medical variables.
+
+[Click here for details](kaggle-tables/README.md)
+
 # Secretaría de Salud (México)
 
 La Secretaría de Salud en México reporta diariamente el número de casos confirmados y sospechosos en formato PDF. Nosotros descargamos dicho archivo, extraemos las tablas y y las convertirmos a CSV. [Click aquí para ver el código.](https://github.com/brigadadigitalmx/policy-briefs-medical/tree/master/pipelines/mx-health-ministry)
