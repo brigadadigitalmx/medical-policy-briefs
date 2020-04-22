@@ -1,13 +1,16 @@
-# Kaggle tables
+# Datos capturados de literatura científica
 
-The Kaggle community is mining COVID-19 related papers and consolidating tables for several medical variables.
+La comunidad de [Kaggle](kaggle.com) ha usado técnicas de minería de datos para clasificar artículos de investigación sobre COVID-19 en tablas. Estas tablas contienen información sobre variables como periodo de incubación, porcentaje de infectados asíntomáticos, entre otras.
 
-[Original source](https://www.kaggle.com/covid-19-contributions)
+Debido a que las tablas fueron llenadas con los resultados de diversos algoritmos, se require intervención manual para determinar si los datos capturados son los adecuados.
 
-The table is periodically updated. We are making CSV versions of each table available to make analysis easier.
 
-All credit goes to the original authors in the Kaggle community.
+Hemos desarrollado un [script](https://github.com/brigadadigitalmx/policy-briefs-medical/tree/dev/kaggle-tables) que guarda las tablas en formato CSV. Usando estas tablas generadas automáticamente, los voluntarios las han curado para verificar que la información es correcta.
 
-[CSV tables](https://github.com/brigadadigitalmx/policy-briefs-medical/tree/dev/kaggle-tables/output/)
+Tanto las tablas publicadas en Kaggle como las nuestras, serán actualizadas periodicamente.
 
-[Source code for generating CSV files](https://github.com/brigadadigitalmx/policy-briefs-medical/tree/dev/kaggle-tables)
+
+## Datos
+
+* [Fuente original]([tablas](https://www.kaggle.com/covid-19-contributions))
+* [Archivos convertidos a CSV](https://github.com/brigadadigitalmx/policy-briefs-medical/tree/dev/kaggle-tables/output/)
