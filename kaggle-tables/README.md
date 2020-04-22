@@ -12,5 +12,5 @@ Tanto las tablas publicadas en Kaggle como las nuestras, serán actualizadas per
 
 ## Datos
 
-* [Fuente original]([tablas](https://www.kaggle.com/covid-19-contributions))
+* [Fuente original](https://www.kaggle.com/covid-19-contributions)
 * [Archivos convertidos a CSV](https://github.com/brigadadigitalmx/policy-briefs-medical/tree/dev/kaggle-tables/output/)
